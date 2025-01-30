@@ -44,4 +44,3 @@ def remainder(d,f):
 print(persent(100))
 print(multiplier(5, 5))
 print(remainder(20, 4))
-
