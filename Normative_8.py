@@ -58,4 +58,3 @@ print(remainder(20, 4))
 print(remainder(20, 4))
 print(remainder(20, 4))
 print(remainder(20, 4))
-
